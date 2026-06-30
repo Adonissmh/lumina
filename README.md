@@ -1,47 +1,29 @@
-# Music Reactive Lighting System
+# Lumina
 
-## Overview
-
-This project aims to design and develop a music-reactive lighting system capable of synchronizing RGB LED effects with live audio input. The system is built using an ESP32 microcontroller, a MAX9814 microphone module, and WS2812B addressable LED strips.
-
-The objective is to explore embedded systems, digital signal processing, and lighting control while creating a scalable platform inspired by professional concert and nightclub lighting.
+An intelligent music-reactive lighting system designed to translate sound into immersive lighting experiences.
 
 ---
 
-## Goals
+## Objectives
 
-- Learn embedded programming
+- Learn embedded systems
+- Learn digital signal processing
+- Learn real-time programming
 - Learn electronics
-- Learn signal processing
-- Build a modular lighting controller
-- Create professional project documentation
-
----
-
-## Hardware
-
-- ESP32
-- MAX9814 Microphone
-- WS2812B LED Strip
-- Breadboard
-- Jumper Wires
-- 5V Power Supply
-
----
-
-## Roadmap
-
-- [ ] Blink LEDs
-- [ ] Read microphone values
-- [ ] Volume reactive effects
-- [ ] Beat detection
-- [ ] Frequency analysis
-- [ ] Multiple lighting zones
-- [ ] Enclosure
-- [ ] Final demo
+- Build a scalable lighting platform
 
 ---
 
 ## Current Status
 
-Planning Phase
+🟢 ESP32 configured
+
+🟢 Microphone input verified
+
+🟡 LED integration in progress
+
+⚪ Beat detection
+
+⚪ Dynamic lighting engine
+
+⚪ DMX support (future)
