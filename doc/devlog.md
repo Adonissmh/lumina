@@ -45,3 +45,9 @@ Lessons learned
 - Test one subsystem at a time.
 - Development environment setup takes longer than expected.
 - Hardware debugging is part of engineering.
+
+# July 4
+
+While waiting on funds for further development.
+-Prototype Concept Generated
+-Used Blueprint AM to generate an early physical prototype concept for Lumina. The concept shows a modular music-reactive lighting system with a central controller enclosure, LED light bars with diffusers, mounting brackets, power distribution wiring, and possible ESP32-based audio-reactive control. This helped define Lumina’s potential physical form while separating the project into core systems: electronics, lighting hardware, enclosure, and firmware.
